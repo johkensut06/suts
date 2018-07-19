@@ -28,12 +28,12 @@
   },
   {
     "id": 205,
-    "name": "Beautiful scenery, clear waters - perfect for a summer barkada getaway",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "name": "The only five-star hotel-resort in Northern Luzon, Philippines - Thunderbird Resort",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/thunderbird.jpg",
+    "price": 700,
+    "priceCurrency": "PHP",
+    "lat": 16.6091,
+    "lng": 120.2865
   },
   {
     "id": 210,
