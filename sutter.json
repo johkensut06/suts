@@ -1,7 +1,7 @@
 [
   {
     "id": 145,
-    "name": "A predominantly mountainous municipality in Region I.",
+    "name": "A predominantly mountainous - Tangadan Falls.",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/tangadan.jpg",
     "price": "Free",
     "priceCurrency": "PHP",
@@ -10,7 +10,7 @@
   },
   {
     "id": 148,
-    "name": "Beautiful scenery, clear waters - perfect for a summer barkada getaway",
+    "name": "Beautiful scenery, clear waters - Occalong Falls",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/occalong.jpg",
     "price": 200,
     "priceCurrency": "PHP",
