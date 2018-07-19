@@ -12,19 +12,19 @@
     "id": 148,
     "name": "Beautiful scenery, clear waters - Occalong Falls",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/occalong.jpg",
-    "price": 200,
+    "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.7995,
     "lng": 120.3574
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
-    "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "name": "one of most sought-after adventure places in the North - Pugad Adventure",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/pugad.jpg",
+    "price": 200,
+    "priceCurrency": "PHP",
+    "lat": 16.3367,
+    "lng": 120.4788
   },
   {
     "id": 205,
