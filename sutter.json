@@ -4,7 +4,7 @@
     "name": "A predominantly mountainous municipality in Region I.",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/tangadan.jpg",
     "price": "Free",
-    "priceCurrency": "₱",
+    "priceCurrency": "",
     "lat": 16.6436,
     "lng": 120.4488
   },
