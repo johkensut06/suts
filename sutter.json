@@ -43,5 +43,14 @@
     "priceCurrency": "PHP",
     "lat": 16.8444,
     "lng": 120.3764
+  },
+  {
+    "id": 210,
+    "name": "Bahay namin",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/suts.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.5674,
+    "lng": 120.3221
   }
 ]
