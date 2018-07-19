@@ -43,14 +43,5 @@
     "priceCurrency": "PHP",
     "lat": 16.8444,
     "lng": 120.3764
-  },
-  {
-    "id": 211,
-    "name": "Bahay namin :) Sorry d Makita",
-    "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/suts.jpg",
-    "price": "Free,
-    "priceCurrency": "0",
-    "lat": 16.5674,
-    "lng": 120.3221
   }
 ]
