@@ -4,18 +4,18 @@
     "name": "A predominantly mountainous municipality in Region I.",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/tangadan.jpg",
     "price": "Free",
-    "priceCurrency": "",
+    "priceCurrency": "PHP",
     "lat": 16.6436,
     "lng": 120.4488
   },
   {
     "id": 148,
     "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/occalong.jpg",
     "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "priceCurrency": "PHP",
+    "lat": 16.7995,
+    "lng": 120.3574
   },
   {
     "id": 201,
@@ -28,7 +28,7 @@
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
+    "name": "Beautiful scenery, clear waters - perfect for a summer barkada getaway",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
     "price": 115,
     "priceCurrency": "EUR",
