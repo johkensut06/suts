@@ -37,12 +37,12 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "name": "an updated version of the traditional bahay kubo - Bahay na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/bahaynabato.jpg",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.8444,
+    "lng": 120.3764
   },
   {
     "id": 211,
