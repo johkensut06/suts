@@ -1,6 +1,7 @@
 [
   {
     "id": 145,
+    "nagan": "Tangadan Falls",
     "name": "A predominantly mountainous - Tangadan Falls.",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/tangadan.jpg",
     "price": "Free",
@@ -10,6 +11,7 @@
   },
   {
     "id": 148,
+    "nagan": "Occalong Falls",
     "name": "Beautiful scenery, clear waters - Occalong Falls",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/occalong.jpg",
     "price": 100,
@@ -19,6 +21,7 @@
   },
   {
     "id": 201,
+    "nagan": "Pugad",
     "name": "one of most sought-after adventure places in the North - Pugad Adventure",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/pugad.jpg",
     "price": 200,
@@ -28,6 +31,7 @@
   },
   {
     "id": 205,
+    "nagan": "Thunderbird",
     "name": "The only five-star hotel-resort in Northern Luzon, Philippines - Thunderbird Resort",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/thunderbird.jpg",
     "price": 700,
@@ -37,6 +41,7 @@
   },
   {
     "id": 210,
+    "nagan": "Bahay na Bato",
     "name": "An updated version of the traditional bahay kubo - Bahay na Bato",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/bahaynabato.jpg",
     "price": 20,
@@ -46,6 +51,7 @@
   },
   {
     "id": 210,
+    "nagan": "Bahay namin",
     "name": "Bahay namin",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/suts.jpg",
     "price": 0,
