@@ -4,8 +4,8 @@
     "nagan": "Tangadan Falls",
     "name": "A predominantly mountainous - Tangadan Falls.",
     "imageUrl": "https://raw.githubusercontent.com/johkensut06/suts/master/image/tangadan.jpg",
-    "price": "Free",
-    "priceCurrency": "",
+    "price": 0,
+    "priceCurrency": "₱",
     "lat": 16.6436,
     "lng": 120.4488
   },
